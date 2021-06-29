@@ -1,0 +1,30 @@
+	
+	footer{color: aquamarine;
+	padding: 10px;
+	background-color:green;
+	size: 2pt;
+	}
+	header{
+		padding: 15px;
+		background-color: green;
+		color:white);
+		font-style: initial;
+	}
+
+	*{color: yellow;
+	font-weight: bold;
+size: 15px;}
+  body{background-image: url(hero.jpg)
+}
+a:hover{
+	background-color:blue ;
+	padding: 2px;
+	font-weight: bolder;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+body{background-size: cover;}
+  
+
+	
