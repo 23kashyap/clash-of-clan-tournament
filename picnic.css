@@ -11,7 +11,7 @@
 		font-style: initial;
 	}
 
-	*{color: yellow;
+	*{color:rgb(6, 240, 248);
 	font-weight: bold;
 size: 15px;}
   body{background-image: url(hero.jpg)
@@ -23,7 +23,8 @@ a:hover{
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 }
-
+body{
+ background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5vjSsXPlvUlTh60p2YzaamPPOwjbOEI-avw&usqp=CAU);}
 body{background-size: cover;}
   
 
